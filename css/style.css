@@ -1,6 +1,6 @@
 body
 {
-background:lightblue;
+
 font-family: 'Montserrat', sans-serif;
 margin: 1.5em;
 }
@@ -55,12 +55,9 @@ margin-left: auto;
 .image-grid img{
 
 margin: 1em;
-padding: 1em;
 display: block;
 border: 1px;
 border-radius: 25%;
 
 }
 
-.image-grid .column{
-  min-height:20em;
