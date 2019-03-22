@@ -45,19 +45,14 @@ margin-left: auto;
 
 }
 
-.download img {
-	align-items: center;
-}
 
 
-  
-}
-.image-grid img{
+ 
+.screenshot .image-grid img{
 
 margin: 1em;
 display: block;
-border: 1px;
-border-radius: 25%;
+border: 10px solid lightblue;
 
 }
 
